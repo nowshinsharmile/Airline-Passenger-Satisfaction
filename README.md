@@ -17,7 +17,7 @@ a few methods were used:
 
 # Modeling
 
-1.Data was already split between test and train.
+1. Data was already split between test and train.
 
 2. Used correlation matrix to determine top 10 variables nd different classification modeles were applied. Top 10 variables were kept to  minimise the use of memory.
 
