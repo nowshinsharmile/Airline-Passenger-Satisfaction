@@ -14,8 +14,8 @@ a few methods were used
 3. Kdeplot for age distribution for different genders
 4. Violinplot and Catplot for AGe distribution
 5. Displot for Flight distance 
-# Modeling
 
+# Modeling
 1.Data was already split between test and train. 
 2. Used correlation matrix to determine top 10 variables nd different classification modeles were applied. Top 10 variables were kept to  minimise the use of memory.
 3. Different classification models such as Logistic regression, Random Forest Classifier, Gaussian Naive Bayes model, K Neighbors Classifier and at last Decision Tree Classifier.
