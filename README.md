@@ -1,5 +1,6 @@
 # Airline-Passenger-Satisfaction
-The dataset is available in kaggle
+The dataset is available in kaggle. https://www.kaggle.com/teejmahal20/airline-passenger-satisfaction
+
 # Problem Statement
 Like any service, Airlines depends entirely on customers, as they are the one paying for it. Airlines spend millions on understasnding customer satisfaction. This dataset uses various variables and to determine which variables contribute most to passengers satisfaction.
 # Problem Type
@@ -14,10 +15,10 @@ a few methods were used
 4. Violinplot and Catplot for AGe distribution
 5. Displot for Flight distance 
 # Modeling
-Data was already split between test and train. 
-Used correlation matrix to determine top 10 variables nd different classification modeles were applied. Top 10 variables were kept to  minimise the use of memory
-Different classification models such as Logistic regression, Random Forest Classifier, Gaussian Naive Bayes model, K Neighbors Classifier and at last Decision Tree Classifier.
-Confusion matrix and accuracy was shown
-Random Forest Classifie provided the best result wih 93%
+1.Data was already split between test and train. 
+2. Used correlation matrix to determine top 10 variables nd different classification modeles were applied. Top 10 variables were kept to  minimise the use of memory.
+3. Different classification models such as Logistic regression, Random Forest Classifier, Gaussian Naive Bayes model, K Neighbors Classifier and at last Decision Tree Classifier.
+4. Confusion matrix and accuracy was shown
+5. Random Forest Classifie provided the best result wih 93%
 
 
