@@ -9,5 +9,15 @@ The dataset was collected from kaggle. It was a mostly pre cleaned dataset. Howe
 # Data Visualization
 a few methods were used
 1. Boxplot for all the variables
+2. Heatmap for correlations and variables with highest correlation
+3. Kdeplot for age distribution for different genders
+4. Violinplot and Catplot for AGe distribution
+5. Displot for Flight distance 
+# Modeling
+Data was already split between test and train. 
+Used correlation matrix to determine top 10 variables nd different classification modeles were applied. Top 10 variables were kept to  minimise the use of memory
+Different classification models such as Logistic regression, Random Forest Classifier, Gaussian Naive Bayes model, K Neighbors Classifier and at last Decision Tree Classifier.
+Confusion matrix and accuracy was shown
+Random Forest Classifie provided the best result wih 93%
 
 
