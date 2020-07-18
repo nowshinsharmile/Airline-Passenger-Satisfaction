@@ -17,10 +17,14 @@ a few methods were used:
 
 # Modeling
 
-1.Data was already split between test and train. 
+1.Data was already split between test and train.
+
 2. Used correlation matrix to determine top 10 variables nd different classification modeles were applied. Top 10 variables were kept to  minimise the use of memory.
+
 3. Different classification models such as Logistic regression, Random Forest Classifier, Gaussian Naive Bayes model, K Neighbors Classifier and at last Decision Tree Classifier.
+
 4. Confusion matrix and accuracy was shown
+
 5. Random Forest Classifie provided the best result wih 93%
 
 
